@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Benchmark</string>
+    <string name="teststring">this is just a test string</string>
+    <string name="beg">BEGIN</string>
+    <string name="appname">BENCHMARK APP</string>
+    <string name="output">Output will go here</string>
+</resources>
