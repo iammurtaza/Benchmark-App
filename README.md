@@ -7,7 +7,7 @@ market.
 At the first step, a for loop is run a 100 million times then a default test string is converted to SHA hash 30 thousand times and
 after that, the same default string is converted to MDA5 hash 30 thousand times again.
 
-All the time required for each individual operation is marked using time stamps.
+Time required for each individual operation is marked using time stamps.
 
 A final score is then issued to the user averaging the 3 steps which give us an idea of the raw performance of the CPU under test.
 
